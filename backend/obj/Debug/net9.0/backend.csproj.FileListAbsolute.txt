@@ -1,0 +1,50 @@
+D:\lttbdd\GiuaKy\backend\obj\Debug\net9.0\backend.csproj.AssemblyReference.cache
+D:\lttbdd\GiuaKy\backend\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\lttbdd\GiuaKy\backend\obj\Debug\net9.0\backend.GeneratedMSBuildEditorConfig.editorconfig
+D:\lttbdd\GiuaKy\backend\obj\Debug\net9.0\backend.AssemblyInfoInputs.cache
+D:\lttbdd\GiuaKy\backend\obj\Debug\net9.0\backend.AssemblyInfo.cs
+D:\lttbdd\GiuaKy\backend\obj\Debug\net9.0\backend.csproj.CoreCompileInputs.cache
+D:\lttbdd\GiuaKy\backend\obj\Debug\net9.0\backend.MvcApplicationPartsAssemblyInfo.cs
+D:\lttbdd\GiuaKy\backend\obj\Debug\net9.0\backend.MvcApplicationPartsAssemblyInfo.cache
+D:\lttbdd\GiuaKy\backend\bin\Debug\net9.0\appsettings.Development.json
+D:\lttbdd\GiuaKy\backend\bin\Debug\net9.0\appsettings.json
+D:\lttbdd\GiuaKy\backend\bin\Debug\net9.0\backend.staticwebassets.endpoints.json
+D:\lttbdd\GiuaKy\backend\bin\Debug\net9.0\backend.exe
+D:\lttbdd\GiuaKy\backend\bin\Debug\net9.0\backend.deps.json
+D:\lttbdd\GiuaKy\backend\bin\Debug\net9.0\backend.runtimeconfig.json
+D:\lttbdd\GiuaKy\backend\bin\Debug\net9.0\backend.dll
+D:\lttbdd\GiuaKy\backend\bin\Debug\net9.0\backend.pdb
+D:\lttbdd\GiuaKy\backend\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\lttbdd\GiuaKy\backend\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\lttbdd\GiuaKy\backend\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\lttbdd\GiuaKy\backend\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\lttbdd\GiuaKy\backend\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\lttbdd\GiuaKy\backend\obj\Debug\net9.0\scopedcss\bundle\backend.styles.css
+D:\lttbdd\GiuaKy\backend\obj\Debug\net9.0\staticwebassets.build.json
+D:\lttbdd\GiuaKy\backend\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\lttbdd\GiuaKy\backend\obj\Debug\net9.0\staticwebassets.development.json
+D:\lttbdd\GiuaKy\backend\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\lttbdd\GiuaKy\backend\obj\Debug\net9.0\backend.csproj.Up2Date
+D:\lttbdd\GiuaKy\backend\obj\Debug\net9.0\backend.dll
+D:\lttbdd\GiuaKy\backend\obj\Debug\net9.0\refint\backend.dll
+D:\lttbdd\GiuaKy\backend\obj\Debug\net9.0\backend.pdb
+D:\lttbdd\GiuaKy\backend\obj\Debug\net9.0\backend.genruntimeconfig.cache
+D:\lttbdd\GiuaKy\backend\obj\Debug\net9.0\ref\backend.dll
+D:\lttbdd\GiuaKy\backend\bin\Debug\net9.0\App_Data\exams.json
+C:\Users\NGOC KHANH\AppData\Local\Temp\readia-backend-verify\appsettings.Development.json
+C:\Users\NGOC KHANH\AppData\Local\Temp\readia-backend-verify\appsettings.json
+C:\Users\NGOC KHANH\AppData\Local\Temp\readia-backend-verify\App_Data\exams.json
+C:\Users\NGOC KHANH\AppData\Local\Temp\readia-backend-verify\backend.staticwebassets.endpoints.json
+C:\Users\NGOC KHANH\AppData\Local\Temp\readia-backend-verify\backend.deps.json
+C:\Users\NGOC KHANH\AppData\Local\Temp\readia-backend-verify\backend.runtimeconfig.json
+C:\Users\NGOC KHANH\AppData\Local\Temp\readia-backend-verify\backend.dll
+C:\Users\NGOC KHANH\AppData\Local\Temp\readia-backend-verify\backend.pdb
+C:\Users\NGOC KHANH\AppData\Local\Temp\readia-backend-build\appsettings.Development.json
+C:\Users\NGOC KHANH\AppData\Local\Temp\readia-backend-build\appsettings.json
+C:\Users\NGOC KHANH\AppData\Local\Temp\readia-backend-build\App_Data\exams.json
+C:\Users\NGOC KHANH\AppData\Local\Temp\readia-backend-build\backend.staticwebassets.endpoints.json
+C:\Users\NGOC KHANH\AppData\Local\Temp\readia-backend-build\backend.exe
+C:\Users\NGOC KHANH\AppData\Local\Temp\readia-backend-build\backend.deps.json
+C:\Users\NGOC KHANH\AppData\Local\Temp\readia-backend-build\backend.runtimeconfig.json
+C:\Users\NGOC KHANH\AppData\Local\Temp\readia-backend-build\backend.dll
+C:\Users\NGOC KHANH\AppData\Local\Temp\readia-backend-build\backend.pdb
